@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\bin\Debug\noPainNoGain.exe.config
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\bin\Debug\noPainNoGain.exe
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\bin\Debug\noPainNoGain.pdb
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\obj\Debug\noPainNoGain.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\obj\Debug\noPainNoGain.noPainNoGain.resources
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\obj\Debug\noPainNoGain.Properties.Resources.resources
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\obj\Debug\noPainNoGain.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\obj\Debug\noPainNoGain.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\obj\Debug\noPainNoGain.exe
+C:\Users\CASPER\source\repos\noPainNoGain\noPainNoGain\obj\Debug\noPainNoGain.pdb
