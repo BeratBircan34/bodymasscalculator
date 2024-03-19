@@ -8,4 +8,6 @@ Uygulama oldukça okunaklı,anlaşılır ve basit bir arayüze sahiptir.
 # KULLANIM KLAVUZU
 ## VÜCUT BİLGİLERİNİN GİRİLMESİ
 ![Ekran görüntüsü 2024-03-19 212117](https://github.com/BeratBircan34/bodymasscalculator/assets/150560164/e2c44092-2547-45f5-b889-5ddffce9831d)
-Bu bölüme vücudunuzdan alacağınız bilgilere ek olarak yaşınızı ve cinsiyetinizi giriyorsunuz.Eğer sonuçlarınızın yorumlanmasını istiyorsanız "Sonuçları Yorumla" kutucuğunu işaretlemeniz gerekiyor.
+Bu bölüme vücudunuzdan alacağınız bilgilere ek olarak yaşınızı ve cinsiyetinizi giriyorsunuz.Eğer sonuçlarınızın yorumlanmasını istiyorsanız "Sonuçları Yorumla" kutucuğunu işaretlemeniz gerekiyor.En üstteki resimde sağda gözüken aktivite bölümüne de günlük aktivitenizi giriyorsunuz.Farklı ve karmaşık sitelerde olanın aksine anlaşılır bir şekilde aktivite seviyenizi girebilirsiniz.Aktivite Seviyenizi seçip hesaplaya bastıktan sonra vücudunuz ile alakalı bir çok şeyi öğrenmiş oluyorsunuz.
+## SONUÇLAR
+Sonuçlar uygulamanın orta bölümünde bulunmaktadır.Dilerseniz sonuçlarınızı bilirkişiye sorabilirsiniz.İsterseniz referans değerlere göre uygulamaya değerlendirtebilirsiniz.
